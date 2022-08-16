@@ -31,7 +31,7 @@
 ## Information about implemented library
 
 - The library developed in C language of C11 standard using gcc compiler
-- Functions are developed as a static library (with the s21_math.h header file)
+- Functions developed as a static library (with the s21_math.h header file)
 - The library developed according to the principles of structured programming
 - There are prefix "s21" before each function"
 - Library functions have full coverage with unit-tests with the check.h library  
