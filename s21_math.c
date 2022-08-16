@@ -1,4 +1,4 @@
-//  Copyright 2022 jewfishc, trenamim, johniety
+//  Copyright 2022 <Anton Tuzov>
 #include "s21_math.h"
 
 //  вычисляет абсолютное значение целого числа

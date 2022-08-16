@@ -1,4 +1,4 @@
-//  Copyright 2022 jewfishc, trenamim, johniety
+//  Copyright 2022 <Anton Tuzov>
 #ifndef SRC_S21_MATH_H_
 #define SRC_S21_MATH_H_
 
