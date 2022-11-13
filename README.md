@@ -37,7 +37,7 @@
 - Library functions have full coverage with unit-tests with the check.h library  
 - Unit-tests check the results of my implementation by comparing them with the implementation of the standard math.h library
 - Unit tests cover at least 90% of each function (checked using gcovr)
--  Use Makefile for building the library and tests (the targets: _all, clean, test, s21_math.a, gcov_report_) 
+- I use Makefile for building the library and tests (the targets: _all, clean, test, s21_math.a, gcov_report_) 
 - The total verifiable accuracy is 16 significant digits
 - Verifiable accuracy of the fractional part is up to 6 decimal places.
 
